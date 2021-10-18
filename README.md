@@ -60,7 +60,7 @@ Something similar happens with the averge reading score, the variation between d
  - ### Scores by Grade 
 as expected, the 9th graders scores from THS are Not a number in the data frame, while the other schools remain unchanged
 
-    - https://github.com/dani1925/Election_Analysis/blob/main/image1.JPG?raw=true
+- https://github.com/dani1925/Election_Analysis/blob/main/image1.JPG?raw=true
 
 
 
