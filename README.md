@@ -46,7 +46,7 @@ The data says that 461 score´s where corrupted and set to NaN
 - ### Average Math Score
 The average math score data shows a difference of only 0.05% compared to the data frame with the wrong data
 
-    - https://github.com/dani1925/Election_Analysis/blob/main/image1.JPG?raw=true
+    - https://github.com/dani1925/School_District_Analysis/blob/main/resources/AMS_challenge.jpeg
 
 the corrected dataframe shows that the average math score was 83.35% while in the data frame with wrong data it was 83.4% 
 
