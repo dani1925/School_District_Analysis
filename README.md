@@ -38,9 +38,9 @@ Then using the Numpy library the  NaN fuction set the grades into NaN
     The first step was to determine the number of erroneous data that were converted to Nan
 
 
-    ```ruby
+    
     nineth_studets_ths = school_data_complete_df.loc[(school_data_complete_df["school_name"] == "Thomas High School")&(school_data_complete_df["grade"]=="9th"), "student_name"].count()
-    ```
+    
 
 The data says that 461 score´s where corrupted and set to NaN
 
