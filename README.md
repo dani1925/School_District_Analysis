@@ -25,9 +25,9 @@ The challenge was to place a NaN in those cells since all the other data is impo
     student_data_df.loc[(student_data_df["school_name"]=="Thomas High School") & (student_data_df["grade"]=="9th"), "reading_score"]=np.NaN
     ```
 
-    In order to achive that, with the previous section of code looks in the "clean" student_data_df dataframe for rows equal to "Thomas High School " and "9th" grades with the operator "&"
+In order to achive that, with the previous section of code looks in the "clean" student_data_df dataframe for rows equal to "Thomas High School " and "9th" grades with the operator "&"
 
-    Then using the Numpy library the  NaN fuction set the grades into NaN 
+Then using the Numpy library the  NaN fuction set the grades into NaN 
 
 
 
