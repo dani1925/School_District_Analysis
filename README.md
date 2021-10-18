@@ -20,10 +20,9 @@ The analysis consists of comparing how this change affects the data the general 
 The first challenge was to select all the 9th graders of the Thomas High School and discard only the math and reading scores since we know they have been altered.
 The challenge was to place a NaN in those cells since all the other data is important for the analysis.
 
-
-    ```ruby
+```ruby
     student_data_df.loc[(student_data_df["school_name"]=="Thomas High School") & (student_data_df["grade"]=="9th"), "reading_score"]=np.NaN
-    ```
+```
 
 In order to achive that, with the previous section of code looks in the "clean" student_data_df dataframe for rows equal to "Thomas High School " and "9th" grades with the operator "&"
 
