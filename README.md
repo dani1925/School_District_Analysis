@@ -17,8 +17,8 @@ The analysis consists of comparing how this change affects the data the general 
 
 ## Nan for cleaning the data.
 
-    The first challenge was to select all the 9th graders of the Thomas High School and discard only the math and reading scores since we know they have been altered.
-    The challenge was to place a NaN in those cells since all the other data is important for the analysis.
+The first challenge was to select all the 9th graders of the Thomas High School and discard only the math and reading scores since we know they have been altered.
+The challenge was to place a NaN in those cells since all the other data is important for the analysis.
 
 
     ```ruby
